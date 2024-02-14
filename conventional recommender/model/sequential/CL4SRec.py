@@ -5,7 +5,7 @@ from base.seq_recommender import SequentialRecommender
 from util.conf import OptionConf
 from util.sampler import next_batch_sequence
 from model.sequential.SASRec import SASRec_Model
-from util.loss_torch import l2_reg_loss,InfoNCE,batch_softmax_loss
+from util.loss_torch import l2_reg_loss,InfoNCE
 from data.augmentor import SequenceAugmentor
 
 

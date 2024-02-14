@@ -39,7 +39,6 @@ class SASRec(SequentialRecommender):
             load_model=1
             save_model=2
 
-        import os
         if load_model:
             model.load_state_dict(torch.load(f'./model_cpt/{self.model_name}.pt'))
             self.user_emb, self.item_emb = model._get_embedding()
