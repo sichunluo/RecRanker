@@ -4,7 +4,6 @@
 
 
 
----
 ![Static Badge](https://img.shields.io/badge/Paper-PDF-blue?style=flat&link=https%3A%2F%2Farxiv.org%2Fpdf%2F2312.16018v2.pdf)
 
 
