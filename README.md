@@ -25,11 +25,11 @@ In this paper, we introduce **RecRanker**, tailored for instruction tuning LLM t
 ## Citation
 If you find RecRanker useful in your research or applications, please kindly cite:
 
-> @article{luo2023recranker,
-  title={RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation},
-  author={Luo, Sichun and He, Bowei and Zhao, Haohan and Huang, Yinya and Zhou, Aojun and Li, Zongpeng and Xiao, Yuanzhang and Zhan, Mingjie and Song, Linqi},
-  journal={arXiv preprint arXiv:2312.16018},
-  year={2023}
+> @article{luo2023recranker,  
+  title={RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation},  
+  author={Luo, Sichun and He, Bowei and Zhao, Haohan and Huang, Yinya and Zhou, Aojun and Li, Zongpeng and Xiao, Yuanzhang and Zhan, Mingjie and Song, Linqi},  
+  journal={arXiv preprint arXiv:2312.16018},  
+  year={2023}  
 }
 
 Thanks for your interest in our work!
