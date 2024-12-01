@@ -11,7 +11,7 @@ This is the PyTorch implementation for RecRanker model.
 
 
 > **RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation.**  
-Sichun Luo, Bowei He, Haohan Zhao, Yinya Huang, Aojun Zhou, Zongpeng Li, Yuanzhang Xiao, Mingjie Zhan, Linqi Song.
+Sichun Luo, Bowei He, Haohan Zhao, Yinya Huang, Aojun Zhou, Zongpeng Li, Yuanzhang Xiao, Mingjie Zhan, Linqi Song.  
 *ACM Transactions on Information Systems (TOIS) 2024*
 
 
